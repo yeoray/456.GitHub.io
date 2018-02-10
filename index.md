@@ -2,36 +2,18 @@
 
 You can use the [editor on GitHub](https://github.com/yeoray/456.GitHub.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+镜像
+Lfs从0构建vns
+Sources程序安装包
+需安装的程序： 
+ 为其中之一
+Sublime text
+文本编译器用可共享文本文档，
+Notepad字符劫多有中文版
+使用虚拟机完成对linux的学习。
+iaas xen kvm。Ixc不同的虚拟条件     实施切换和迁移（宕机 离线等情况）
+vmware8和9 版本均可 edraw思维导图的绘制工具 需要不同的浏览器进行web测试（火狐 谷歌 不建议360） 提供渗透测试工具     pdf编辑器    cpu虚拟化功能查看64位 自行添加后缀。.exe  
+    
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yeoray/456.GitHub.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
